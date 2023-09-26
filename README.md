@@ -3,7 +3,7 @@
  a front end programmer with the React library.
   
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/kumarshivesh1)
-[![Linkedin](https://img.shields.io/badge/connect_me_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kumarshivesh1)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kumarshivesh1)
 
 
 ## 🛠 Language and Frameworks
