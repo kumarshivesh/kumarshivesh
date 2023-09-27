@@ -1,7 +1,7 @@
 ## Front-End Developer (React.js)
 #### Hello , I am Kumar Shivesh 👋,
  a front end programmer with the React library.
-  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kumarshivesh1&label=Views&color=blue&style=plastic" alt="Kumar Shivesh" /></p>  
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/kumarshivesh1)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kumarshivesh1)
 
