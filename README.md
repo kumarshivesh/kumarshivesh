@@ -31,10 +31,7 @@
 )
 ![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
 )
-![photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black
-)
-![os](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white
-)
+
 
 ## Stats 
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=kumarshivesh&show_icons=true&theme=tokyonight)](https://github.com/kumarshivesh)
