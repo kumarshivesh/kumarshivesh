@@ -2,8 +2,9 @@
 #### Hello , I am Kumar Shivesh 👋,
  A Frontend Developer with the React library.
 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/kumarshivesh1)
+[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://kumarshivesh1.hashnode.dev/) 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kumarshivesh1)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/kumarshivesh1)
 [![Peerlist](https://img.shields.io/badge/Peerlist-000000?style=for-the-badge&logo=peerlist&logoColor=white)](https://peerlist.io/kumarshivesh)
 
 
