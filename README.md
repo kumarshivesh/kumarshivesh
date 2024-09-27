@@ -1,6 +1,6 @@
 ## Backend Developer
 #### Hello , I am Kumar Shivesh 👋,
- A Backend Developer with the with a strong interest in JavaScript and Python.
+ A Backend Developer with the with a strong interest in Python.
 
 [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://kumarshivesh1.hashnode.dev/) 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kumarshivesh1)
